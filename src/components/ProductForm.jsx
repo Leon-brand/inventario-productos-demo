@@ -1,5 +1,4 @@
 /* eslint-disable react/react-in-jsx-scope */
-
 import { useState, useRef, useContext } from "react";
 import { ProductsContext } from "../context/ProductsContext";
 
@@ -79,7 +78,6 @@ export function ProductForm (){
         </div>    
       </div>           
     </>
-
   )
 }
 

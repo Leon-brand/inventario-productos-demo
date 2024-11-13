@@ -27,8 +27,7 @@ export function TotalInfoCard() {
     if(productList.length > 10){ 
       setPrecioTotal(valorTotalInventario - (20*precioTotal/100))
       alert('Se te hará un descuento del 20% por tener mas de 10 productos');
-    }
-   
+    }   
   }
 
   return (
