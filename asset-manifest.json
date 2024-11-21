@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/inventario-productos-demo/static/css/main.b09857ec.css",
+    "main.js": "/inventario-productos-demo/static/js/main.51b305ba.js",
+    "static/js/453.cea7a2c8.chunk.js": "/inventario-productos-demo/static/js/453.cea7a2c8.chunk.js",
+    "index.html": "/inventario-productos-demo/index.html",
+    "main.b09857ec.css.map": "/inventario-productos-demo/static/css/main.b09857ec.css.map",
+    "main.51b305ba.js.map": "/inventario-productos-demo/static/js/main.51b305ba.js.map",
+    "453.cea7a2c8.chunk.js.map": "/inventario-productos-demo/static/js/453.cea7a2c8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b09857ec.css",
+    "static/js/main.51b305ba.js"
+  ]
+}
